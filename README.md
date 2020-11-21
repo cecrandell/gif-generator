@@ -27,7 +27,7 @@ This application is organized into the following files:
 
 You can view this application at: 
 ```js
-https://cecrandell.github.io/gif-generator/
+<a href="https://cecrandell.github.io/gif-generator/">https://cecrandell.github.io/gif-generator/</a>
 ```
 
 **Technologies Used** 

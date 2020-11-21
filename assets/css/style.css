@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+    background: url("https://www.sandypines.com/wp-content/uploads/Red-Curtain-rob-laughter-491252-unsplash-e1557513345625.jpg") no-repeat center center fixed;
+}
+button, input {
+    margin: 10px 10px;
+}
