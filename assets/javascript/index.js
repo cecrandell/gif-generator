@@ -25,7 +25,7 @@ initialButton();
 $(document).on("click", "button", function () {
     $("#display-gifs").empty();
     let show = $(this).attr("data-name");
-    let queryURL = "https://api.giphy.com/v1/gifs/search?q=" + show + "&api_key=''&limit=10";
+    let queryURL = "https://api.giphy.com/v1/gifs/search?q=" + show + "&api_key=BkaUZZWcFij6J7AoQj3WtPb1R2p9O6V9&limit=10";
     $.ajax({
         url: queryURL,
         method: "GET"
