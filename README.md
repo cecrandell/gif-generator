@@ -1,6 +1,6 @@
 ## GIF Generator
-<!-- 
-![](images/Storefront.gif) -->
+
+![](images/GIF.gif)
 
 **What does this application do and why?**
 
