@@ -19,16 +19,16 @@ This application is organized into the following files:
 
 * *style.css* - this file provides the styling for the root file. 
 
-* *README.md* - this file contains all information about this application.
+* *README* - this file contains all information about this application.
 
-* *images folder* - stores the media files for this README.md file.
+* *images folder* - stores the media files for this README file.
 
 **Step-by-Step on how to run the application**
 
 You can view this application at: 
-```js
-<a href="https://cecrandell.github.io/gif-generator/">https://cecrandell.github.io/gif-generator/</a>
-```
+
+<a href="https://cecrandell.github.io/gif-generator/" target="_blank">https://cecrandell.github.io/gif-generator/</a>
+
 
 **Technologies Used** 
 
